@@ -32,6 +32,21 @@ When doing `git push`, this gets the password from the `.git-credentials` file, 
 git config credential.helper store
 ```
 
+# Terminal branch
+
+Show current branch name in terminal.
+
+```bash
+sudo apt install git bash-completion
+
+# Add this inside `~/.bashrc`.
+source /etc/bash_completion.d/git-prompt
+export PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ '
+
+# Reload settings
+source ~/.bashrc
+```
+
 # Global
 
 ```bash
