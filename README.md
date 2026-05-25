@@ -256,6 +256,7 @@
 - [GSD](./topics/ai/gsd.md)
 - [ChatGPT API](./topics/ai/apiChatGPT.md)
 - [Langchain](./topics/ai/langchain.md)
+- [Whisper](./topics/ai/whisper.md)
 
 # Blockchain
 

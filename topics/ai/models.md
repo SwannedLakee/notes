@@ -6,3 +6,12 @@
 | **Building** | Claude Sonnet 4.6 | GPT-5.3-Codex    | Gemini 3 Flash                      | Devstral 2              | Grok Code Fast 1 | Kimi K2 Instruct, Kimi-Dev  | MiniMax M2.1 |
 | **Errors**   | Claude Sonnet 4.6 | GPT-5.4, o4-mini | Gemini 2.5 Pro                      | Devstral 2, Codestral 2 | Grok 4.1         | Kimi K2 Thinking            | MiniMax M2.5 |
 | **Testing**  | Claude Sonnet 4.5 | GPT-4.1, o4-mini | Gemini 2.5 Flash                    | Devstral Small 2        | Grok 4.1 Fast    | Kimi-Dev                    | MiniMax M2.1 |
+
+Other use cases:
+
+| Use case       | Good       | OK            | Bad             |
+| -------------- | ---------- | ------------- | --------------- |
+| **Writing**    | Claude     | Gemini        | ChatGPT         |
+| **Images**     | Nanobanana | Grok          | Midjourney      |
+| **Video**      | Higgsfield | Kling         | Sora            |
+| **Automation** | Openclaw   | Claude cowork | Make/n8n/Replit |
