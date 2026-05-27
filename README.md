@@ -280,7 +280,7 @@
 
 ### **Electricity**
 
-- [Electricity](./topics/electricity.md)
+- [Electricity](./topics/electronics/electricity.md)
 
 # Startup
 
