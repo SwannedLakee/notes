@@ -183,6 +183,7 @@
 
 ### **System**
 
+- [Distros](./topics/linux/distros.md)
 - [Windows Subsystem for Linux (WSL)](./topics/linux/wsl.md)
 - [Environment Variables](./topics/linux/environment.md)
 - [Filesystem](./topics/linux/filesystem.md)
@@ -356,6 +357,7 @@ You need 3 things:
 - [Excel](./topics/excel.md)
 - [Statistics](./topics/statistics.md)
 - [Googling](./topics/googling.md)
+- [Youtube](./topics/youtube.md)
 
 # **APIs**
 
